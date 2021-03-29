@@ -4,6 +4,10 @@ body {
   font-family: Georgia, serif;
 }
 
+#Input {
+  padding: 1vw;
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
